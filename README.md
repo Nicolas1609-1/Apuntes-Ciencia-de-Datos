@@ -4,9 +4,9 @@ Repositorio con apuntes, prácticas y demos desarrollados para aprender ciencia 
 
 ## Contenido
 
-- [Apuntes-Ciencia-de-Datos](Apuntes-Ciencia-de-Datos/README.md): cuadernos y materiales sobre perceptrones, redes neuronales densas, CNN y ejercicios aplicados.
+- [Apuntes-Ciencia-de-Datos](https://github.com/adiacla/Apuntes-Ciencia-de-Datos): cuadernos y materiales sobre perceptrones, redes neuronales densas, CNN y ejercicios aplicados.
 - [Perceptron Trabajo en Clase](Perceptron%20Trabajo%20en%20Clase/Actividades/README.md): actividades, notebooks y archivos de práctica relacionados con redes neuronales.
-- [convoluciones](convoluciones/README.md): demo de convoluciones y filtros de imagen implementada con HTML y JavaScript.
+- [convoluciones](https://github.com/adiacla/convoluciones): demo de convoluciones y filtros de imagen implementada con HTML y JavaScript.
 - `salida_huevos_quebrados/`: archivos de salida generados por ejercicios de clasificación.
 
 ## Uso
