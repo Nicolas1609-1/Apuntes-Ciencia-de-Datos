@@ -1,22 +1,20 @@
-# Proyectos de Ciencia de Datos
+# Ciencia de Datos
 
-Repositorio con apuntes, prácticas y demos desarrollados para aprender ciencia de datos y redes neuronales.
+Apuntes y trabajos de clase sobre redes neuronales, perceptrones y visión por computador.
 
-## Contenido
+## Carpetas
 
-- [Apuntes-Ciencia-de-Datos](https://github.com/adiacla/Apuntes-Ciencia-de-Datos): cuadernos y materiales sobre perceptrones, redes neuronales densas, CNN y ejercicios aplicados.
-- [Perceptron Trabajo en Clase](Perceptron%20Trabajo%20en%20Clase/Actividades/README.md): actividades, notebooks y archivos de práctica relacionados con redes neuronales.
-- [convoluciones](https://github.com/adiacla/convoluciones): demo de convoluciones y filtros de imagen implementada con HTML y JavaScript.
-- `salida_huevos_quebrados/`: archivos de salida generados por ejercicios de clasificación.
+- [Perceptron Trabajo en Clase](Perceptron%20Trabajo%20en%20Clase/Actividades/README.md): notebooks, ejercicios y una pequeña aplicación para clasificar imágenes.
+- [Apuntes-Ciencia-de-Datos](https://github.com/adiacla/Apuntes-Ciencia-de-Datos): cuadernos del curso sobre redes densas y convolucionales.
+- [convoluciones](https://github.com/adiacla/convoluciones): demo interactiva de filtros de imagen.
+- `salida_huevos_quebrados/`: imágenes generadas por la práctica de clasificación de huevos.
 
-## Uso
+Los notebooks se pueden abrir desde VS Code con la extensión de Jupyter.
 
-Los notebooks se pueden abrir con Jupyter desde VS Code. Las dependencias pueden variar entre proyectos; consulta el archivo `requirements.txt` o el README de la carpeta correspondiente.
-
-Para ejecutar la demo de convoluciones en Windows, abre una terminal en la carpeta `convoluciones` y ejecuta:
+Para probar la demo de convoluciones, abre PowerShell dentro de esa carpeta y ejecuta:
 
 ```powershell
 py -m http.server 8000
 ```
 
-Luego visita <http://localhost:8000/imagen.html> o <http://localhost:8000/camara.html>. La cámara puede requerir permisos del navegador.
+Después abre <http://localhost:8000/imagen.html> en el navegador.
